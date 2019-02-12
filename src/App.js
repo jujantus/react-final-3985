@@ -67,6 +67,17 @@ export default class App extends React.Component {
 										<i className="material-icons search-close-icon">cancel</i>
 									</form>
 								</li>
+								<li>
+									<a href="#">
+										<i class="material-icons left">person_add</i>Sign up
+									</a>
+								</li>
+
+								<li>
+									<a href="#">
+										<i class="material-icons left">person_pin</i>Log in
+									</a>
+								</li>
 							</ul>
 						</div>
 					</nav>
