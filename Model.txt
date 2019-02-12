@@ -1,0 +1,25 @@
+APP
+    Navbar
+        Home
+            SearchBar
+            PinList
+                Pin
+        SubmitPin
+
+
+
+
+{/* <ul className="right">
+						<li>
+							<div className="center row">
+								<div className="col">
+									<div className="row" id="searchbar">
+										<div className="input-field col">
+											<i className="material-icons prefix">search</i>
+											<input type="text" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul> */}
